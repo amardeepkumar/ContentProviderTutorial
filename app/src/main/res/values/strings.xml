@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContentProviderTutorial</string>
+    <string name="enter_movie_name">Enter movie name</string>
+    <string name="enter_description">Enter description</string>
+    <string name="reviewer_name">Enter reviewer Name</string>
+    <string name="enter_review">Enter review</string>
+    <string name="save">Save</string>
+</resources>
