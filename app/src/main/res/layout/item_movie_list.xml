@@ -5,10 +5,10 @@
 
         <variable
             name="movie"
-            type="com.tju.contentprovidertutorial.MovieDto" />
+            type="com.tju.contentprovidertutorial.dto.MovieDto" />
         <variable
             name="reviewDto"
-            type="com.tju.contentprovidertutorial.ReviewDto" />
+            type="com.tju.contentprovidertutorial.dto.ReviewDto" />
     </data>
 
     <LinearLayout

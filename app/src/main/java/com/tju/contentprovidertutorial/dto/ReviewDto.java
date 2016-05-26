@@ -1,4 +1,4 @@
-package com.tju.contentprovidertutorial;
+package com.tju.contentprovidertutorial.dto;
 
 /**
  * Created by amardeep.kumar on 5/25/2016.
