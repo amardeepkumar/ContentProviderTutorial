@@ -39,7 +39,7 @@ public class MovieDataProvider extends ContentProvider {
 
         switch (match) {
             case MOVIE:
-                return MovieDataContract.MovieEntry.CONTENT_TYPE;
+                return MovieDataContract.MovieEntry.CONTENT_TYPE_DIR;
             default:
                 throw new UnsupportedOperationException("Unknown uri: " + uri);
         }
